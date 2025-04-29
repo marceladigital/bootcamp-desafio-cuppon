@@ -9,7 +9,10 @@ body{
     background-color: #28a745;
   }
   
-  
   .green {
     color: #28a745;
+  }
+
+  .card {
+    text-align: center;
   }
